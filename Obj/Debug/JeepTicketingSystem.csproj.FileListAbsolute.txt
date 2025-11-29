@@ -1,0 +1,68 @@
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.staticwebassets.runtime.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.staticwebassets.endpoints.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.exe
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.deps.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.runtimeconfig.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.dll
+C:\Users\Asus\source\repos\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.pdb
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.RazorAssemblyInfo.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.RazorAssemblyInfo.cs
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\scopedcss\bundle\JeepTicketingSystem.styles.css
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\scopedcss\projectbundle\JeepTicketingSystem.bundle.scp.css
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.dll
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\refint\JeepTicketingSystem.dll
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.pdb
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.genruntimeconfig.cache
+C:\Users\Asus\source\repos\JeepTicketingSystem\obj\Debug\net8.0\ref\JeepTicketingSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.staticwebassets.runtime.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.staticwebassets.endpoints.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.exe
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\bin\Debug\net8.0\JeepTicketingSystem.pdb
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.RazorAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.RazorAssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\scopedcss\bundle\JeepTicketingSystem.styles.css
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\scopedcss\projectbundle\JeepTicketingSystem.bundle.scp.css
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\refint\JeepTicketingSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.pdb
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\JeepTicketingSystem.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\IDSC Project\JeepTicketingSystem\obj\Debug\net8.0\ref\JeepTicketingSystem.dll
