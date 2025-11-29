@@ -1,0 +1,32 @@
+﻿@model List<JeepTicketingSystem.Models.JeepTicket>
+
+<h2>Jeep Tickets</h2>
+
+<p><a href="/JeepTickets/Create" class="btn btn-primary">Create New Ticket</a></p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Passenger</th>
+            <th>Route</th>
+            <th>Fare</th>
+            <th>Travel Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var t in Model)
+        {
+            <tr>
+                <td>@t.PassengerName</td>
+                <td>@t.Route</td>
+                <td>@t.Fare</td>
+                <td>@t.TravelDate.ToShortDateString()</td>
+                <td>
+                    <a href="/JeepTickets/Edit/@t.Id">Edit</a> |
+                    <a href="/JeepTickets/Delete/@t.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

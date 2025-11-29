@@ -1,0 +1,28 @@
+﻿@model JeepTicketingSystem.Models.JeepTicket
+
+<h2>Create Ticket</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.PassengerName)
+        @Html.TextBoxFor(m => m.PassengerName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Route)
+        @Html.TextBoxFor(m => m.Route, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Fare)
+        @Html.TextBoxFor(m => m.Fare, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.TravelDate)
+        @Html.TextBoxFor(m => m.TravelDate, "{0:yyyy-MM-dd}", new { type = "date", @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+}
