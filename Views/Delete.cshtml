@@ -1,0 +1,16 @@
+﻿@model JeepTicketingSystem.Models.JeepTicket
+
+<h2>Delete Ticket</h2>
+
+<p>Are you sure you want to delete this ticket?</p>
+
+<div>
+    <h4>@Model.PassengerName</h4>
+    <p>@Model.Route | @Model.Fare | @Model.TravelDate.ToShortDateString()</p>
+</div>
+
+@using (Html.BeginForm("DeleteConfirmed", "JeepTickets", new { id = Model.Id }, FormMethod.Post))
+{
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="/JeepTickets" class="btn btn-secondary">Cancel</a>
+}
